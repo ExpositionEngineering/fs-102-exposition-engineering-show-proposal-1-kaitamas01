@@ -19,11 +19,11 @@
 <!---toc end-->
 
 ## Add Your Name Here
-
+Kai Tamas
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
 TODO: You must retype the sentence here in order to digitally sign your pledge.
-
+"I adhered to the Allegheny College Honor Code while completing this project."
 
 
 **IMPORTANT:** If you do not type the required sentence then the course
@@ -34,7 +34,7 @@ while completing the project.
 
 TODO: Provide a compelling sentence that summarizes and pitches your podcast
 episode.
-
+The pitch of my podcast episode is going to be touching on different types of majors, why people pick the college that leads up to picking their major, and why they picked their major. 
 ## 🔬 Show Details
 
 TODO: Provide all of the required details for your podcast episode.
@@ -42,17 +42,17 @@ TODO: Provide all of the required details for your podcast episode.
 TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
 Topic]`.
 
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**: Undecided choices
+- **Host**: 
+- **Guest**: First year and Second year College Dean's
 
 ## 📝 Show Objectives
 
 TODO: Provide a list of of at least three objectives for the podcast episode.
 
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**: Gain an Audience
+- **Objective Two**: Learn from what the guest provided us
+- **Objective Three**: Gives insight and background on different types of majors
 
 ## 📚 Sample Questions
 
@@ -62,9 +62,9 @@ ask the guest.
 TODO: Provide a justification for why asking this question will achieve one of
 the stated objectives for the podcast episode.
 
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
+- **Question One**: What college they went college and why they picked the college.
+- **Question Two**: Why did they chose their majors, and what steps did they do to decided and find their major.
+- **Question Three**: How can a underclassmen or a graduated student decided on their majors interest.
 
 - **Justification for Question One**:
 - **Justification for Question Two**:
