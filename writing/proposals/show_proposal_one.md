@@ -19,7 +19,9 @@
 <!---toc end-->
 
 ## Add Your Name Here
+
 Kai Tamas
+
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
 TODO: You must retype the sentence here in order to digitally sign your pledge.
