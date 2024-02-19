@@ -18,85 +18,33 @@
 
 <!---toc end-->
 
-## Kai Tamas
+ Kai Tamas
 
-## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
+ "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-"I adhered to the Allegheny College Honor Code while completing this project."
+ The pitch of my podcast episode is going to be touching on different types of majors, why people pick the college that leads up to picking their major, and why they picked their major. 
 
-
-**IMPORTANT:** If you do not type the required sentence then the course
-instructor will not know that you adhered to the Allegheny College Honor Code
-while completing the project.
-
-## 🏁 One Sentence Pitch
-
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
-The pitch of my podcast episode is going to be touching on different types of majors, why people pick the college that leads up to picking their major, and why they picked their major. 
-## 🔬 Show Details
-
-TODO: Provide all of the required details for your podcast episode.
-
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
-
-- **Title**: Undecided choices
-- **Host**: 
-- **Guest**: First year and Second year College Dean's
-
-## 📝 Show Objectives
-
-TODO: Provide a list of of at least three objectives for the podcast episode.
+- **Title**: Undecided choices 
+- **Host**: Kai 
+- **Guest**: First year Dean Erin O'Day Frye
 
 - **Objective One**: Gain an Audience
 - **Objective Two**: Learn from what the guest provided us
 - **Objective Three**: Gives insight and background on different types of majors
 
-## 📚 Sample Questions
-
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
-
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
-
 - **Question One**: What college they went college and why they picked the college.
 - **Question Two**: Why did they chose their majors, and what steps did they do to decided and find their major.
 - **Question Three**: How can a underclassmen or a graduated student decided on their majors interest.
 
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**: To let people know why picking a college is a reason to pick a major
+- **Justification for Question Two**: To have insight on why picking majors are important
+- **Justification for Question Three**: To teach students to have plans or goals to pick a major
 
-## 🎉 Show Description
+I'll discuss the fascinating process of selecting a major in this episode. To help you with this crucial choice, I'll dive into useful advice and captivating experiences. I will give you tools to identify your interests and passions, ranging from self-reflection exercises to field exploration. In addition, I'll conduct interviews with experts from a range of fields who will share their perspectives and experiences, offering you an idea of possible career paths.
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+I want them to gather resources from the episode then to go and pick out interestes they like.
+Have a lot of valuable insight of picking a major in the future to have a future.
 
-
-## 📢 Call to Action
-
-TODO: After a person listens to this episode what do you want them to do?
-
-TODO: Write at least two sentences that explain the call to action for this episode.
-
-## 🦜 References
-
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+- **Reference One**: https://catalog.allegheny.edu/index.php?catoid=47
+- **Reference Two**: Quadlin, N. (2017). Funding sources, family income, and fields of study in college Oxford University Press (OUP). doi:10.1093/sf/sox042
+- **Reference Three**: Keshishian, F., Brocavich, J. M., Thomas Boone, R., & Pal, S. (2010). Motivating factors influencing college students' choice of academic major
