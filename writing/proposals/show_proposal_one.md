@@ -24,12 +24,12 @@
 
 ## 🏁 One Sentence Pitch
 
- - The pitch of my podcast episode is going to be touching on different types of majors, why people pick the college that leads up to picking their major, and why they picked their major. 
+ - The pitch of my podcast episode is going to be touching on different types of majors, why people pick the college that leads up to picking their major, and why they picked their major.
 
 ## 🔬 Show Details
 
-- **Title**: Undecided choices 
-- **Host**: Kai 
+- **Title**: Undecided choices
+- **Host**: Kai Tamas
 - **Guest**: First year Dean Erin O'Day Frye
 
 ## 📝 Show Objectives
@@ -58,6 +58,6 @@
 Have a lot of valuable insight of picking a major in the future to have a future.
 
 ## 🦜 References
-- **Reference One**: https://catalog.allegheny.edu/index.php?catoid=47
+- **Reference One**: https:catalog.allegheny.edu/index.php?catoid=47
 - **Reference Two**: Quadlin, N. (2017). Funding sources, family income, and fields of study in college Oxford University Press (OUP). doi:10.1093/sf/sox042
 - **Reference Three**: Keshishian, F., Brocavich, J. M., Thomas Boone, R., & Pal, S. (2010). Motivating factors influencing college students' choice of academic major
