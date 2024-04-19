@@ -20,6 +20,7 @@
 
  Kai Tamas
 
+## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
  "I adhered to the Allegheny College Honor Code while completing this project."
 
 ## 🏁 One Sentence Pitch
