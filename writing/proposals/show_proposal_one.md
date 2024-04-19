@@ -61,6 +61,6 @@ Have a lot of valuable insight of picking a major in the future to have a future
 
 ## 🦜 References
 
-- **Reference One**: https:catalog.allegheny.edu/index.php?catoid
+- **Reference One**: https://catalog.allegheny.edu/index.php?catoid
 - **Reference Two**: Quadlin, N. (2017). Funding sources, family income, and fields of study in college Oxford University Press (OUP). doi:10.1093/sf/sox042
-- **Reference Three**: Keshishian, F., Brocavich, J. M., Thomas Boone, R., & Pal, S. (2010). Motivating factors influencing college students' choice of academic major
+- **Reference Three**: Keshishian, F., Brocavich, J. M., Thomas Boone, R., & Pal, S. (2010). Motivating factors influencing college students' choice of academic major. Keshishian, F., Brocavich
