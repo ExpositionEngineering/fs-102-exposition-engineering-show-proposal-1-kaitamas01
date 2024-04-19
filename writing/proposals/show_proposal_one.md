@@ -52,7 +52,7 @@
 
 ## 🎉 Show Description
 
-- I'll discuss the fascinating process of selecting a major in this episode. To help you with this crucial choice, I'll dive into useful advice and captivating experiences. I will give you tools to identify your interests and passions, ranging from self-reflection exercises to field exploration. In addition, I'll conduct interviews with experts from a range of fields who will share their perspectives and experiences, offering you an idea of possible career paths.
+I'll discuss the fascinating process of selecting a major in this episode. To help you with this crucial choice, I'll dive into useful advice and captivating experiences. I will give you tools to identify your interests and passions, ranging from self-reflection exercises to field exploration. In addition, I'll conduct interviews with experts from a range of fields who will share their perspectives and experiences, offering you an idea of possible career paths.
 
 ## 📢 Call to Action
 
@@ -63,4 +63,4 @@ Have a lot of valuable insight of picking a major in the future to have a future
 
 - **Reference One**: https://catalog.allegheny.edu/index.php?catoid
 - **Reference Two**: Quadlin, N. (2017). Funding sources, family income, and fields of study in college Oxford University Press (OUP). doi:10.1093/sf/sox042
-- **Reference Three**: Keshishian, F., Brocavich, J. M., Thomas Boone, R., & Pal, S. (2010). Motivating factors influencing college students' choice of academic major. Keshishian, F., Brocavich
+- **Reference Three**: Keshishian, F., Brocavich, J. M., Thomas Boone, R., & Pal, S. (2010). Motivating factors influencing college students' choice of academic major.
