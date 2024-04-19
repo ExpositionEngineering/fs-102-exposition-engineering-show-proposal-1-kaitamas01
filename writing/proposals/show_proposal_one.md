@@ -36,15 +36,15 @@ The pitch of my podcast episode is going to be touching on different types of ma
 
 ## 📝 Show Objectives
 
-- **Objective One**: Gain an Audience
-- **Objective Two**: Learn from what the guest provided us
-- **Objective Three**: Gives insight and background on different types of majors
+- **Objective One**: Gain an Audience.
+- **Objective Two**: Learn from what the guest provided us.
+- **Objective Three**: Gives insight and background on different types of majors.
 
 ## 📚 Sample Questions
 
-- **Question One**: What college they went college and why they picked the college.
-- **Question Two**: Why did they chose their majors, and what steps did they do to decided and find their major.
-- **Question Three**: How can a underclassmen or a graduated student decided on their majors interest.
+- **Question One**: What college they went college and why they picked the college?
+- **Question Two**: Why did they chose their majors, and what steps did they do to decided and find their major?
+- **Question Three**: How can a underclassmen or a graduated student decided on their majors interest?
 
 - **Justification for Question One**: To let people know why picking a college is a reason to pick a major
 - **Justification for Question Two**: To have insight on why picking majors are important
@@ -56,11 +56,12 @@ I'll discuss the fascinating process of selecting a major in this episode. To he
 
 ## 📢 Call to Action
 
-- I want them to gather resources from the episode then to go and pick out interestes they like.
-Have a lot of valuable insight of picking a major in the future to have a future.
+- I want them to gather resources from the episode then to go and pick out interestes they like. Have a lot of valuable insight of picking a major in the future to have a future.
 
 ## 🦜 References
 
 - **Reference One**: https:/catalog.allegheny.edu/index.php?catoid
+
 - **Reference Two**: Quadlin, N. (2017). Funding sources, family income, and fields of study in college Oxford University Press (OUP). doi:10.1093/sf/sox042
+
 - **Reference Three**: Keshishian, F., Brocavich, J. M., Thomas Boone, R., & Pal, S. (2010). Motivating factors influencing college students' choice of academic major.
