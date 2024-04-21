@@ -60,7 +60,7 @@ I'll discuss the fascinating process of selecting a major in this episode. To he
 
 ## 🦜 References
 
-- **Reference One**: [^1] https://catalog.allegheny.edu/index.php?catoid
+- **Reference One**: [^1] `https://catalog.allegheny.edu/index.php?catoid`
 
 - **Reference Two**: [^2] Quadlin, N. (2017). Funding sources, family income, and fields of study in college Oxford University Press (OUP). doi:10.1093/sf/sox042
 
