@@ -62,6 +62,6 @@ I'll discuss the fascinating process of selecting a major in this episode. To he
 
 - **Reference One**: [^1](https://catalog.allegheny.edu/index.php?catoid)
 
-- **Reference Two**: [^2]Quadlin, N. (2017). Funding sources, family income, and fields of study in college Oxford University Press (OUP). doi:10.1093/sf/sox042
+- **Reference Two**: [^2](https://blog.collegeboard.org/the-ultimate-guide-to-choosing-a-college-major)
 
-- **Reference Three**: [^3]Keshishian, F., Brocavich, J. M., Thomas Boone, R., & Pal, S. (2010). Motivating factors influencing college students' choice of academic major.
+- **Reference Three**: [^3](https://www.onlinecollegeplan.com/choosing-major-guide/)
