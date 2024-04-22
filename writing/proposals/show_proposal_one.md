@@ -60,8 +60,8 @@ I'll discuss the fascinating process of selecting a major in this episode. To he
 
 ## 🦜 References
 
-- **Reference One**: [^1](https://catalog.allegheny.edu/index.php?catoid)
+- **Reference One**: [College Handbooks & Academic Bulletin](https://catalog.allegheny.edu/index.php?catoid)
 
-- **Reference Two**: [^2](https://blog.collegeboard.org/the-ultimate-guide-to-choosing-a-college-major)
+- **Reference Two**: [The Ultimate Guide to  Chossing a College Major](https://blog.collegeboard.org/the-ultimate-guide-to-choosing-a-college-major)
 
-- **Reference Three**: [^3](https://www.onlinecollegeplan.com/choosing-major-guide/)
+- **Reference Three**: [Choosing a Major: A Simple To Understand Guide for Undecided Students](https://www.onlinecollegeplan.com/choosing-major-guide/)
